@@ -1,0 +1,14 @@
+/* Enter your custom styles here */
+.login-button{
+    border: purple solid 2px;
+    border-radius: 1rem;
+    width: 5rem;
+    background: linear-gradient(to bottom right, #faf0ff,#3daee6);
+font-weight: bold;
+    color: #0f09b1;
+}
+
+.login-box{
+    line-height: 2em; 
+    padding: 5rem;
+}
